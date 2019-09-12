@@ -90,6 +90,9 @@ public class actividad_cerrar extends AppCompatActivity {
     }
 
     protected void cancelar(){
+     /*Esta función solo sirve para cancelar la ventana de confirmación
+      para salir de la aplicación.
+      */
 
     }
 
